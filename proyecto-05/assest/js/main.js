@@ -1,3 +1,4 @@
+/* Archivo JS*/
 $(document).ready(function () {
   $("#search").on("input", function () {
     var query = $(this).val();
